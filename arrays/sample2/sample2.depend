@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519576736 source:/home/rohikgalli/Desktop/problen_solving/arrays/sample2/main.c
+	<stdio.h>
+	<stdlib.h>
+
