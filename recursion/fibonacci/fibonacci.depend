@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520106871 source:/home/rohikgalli/Desktop/problem_solving/problem-solving/recursion/fibonacci/main.c
+	<stdio.h>
+	<stdlib.h>
+
